@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.btn{
+    @apply text-white px-3 py-2 content-end
+}
+@tailwind utilities;
